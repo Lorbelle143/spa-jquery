@@ -1,3 +1,13 @@
+
+body {
+    background-image: url('http://wallpapercave.com/wp/JOQ3V1l.jpg');
+    background-size: cover; 
+    background-repeat: no-repeat;
+    
+}
 h1{
-    color: #99ccff;
+    color: white;
+    text-align: center;
+    font-weight: 900;
+    font-family: 'Times New Roman', Times, serif;
 }
